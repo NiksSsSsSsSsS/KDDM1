@@ -13,6 +13,6 @@ To Do's:
 
     Answering the following Questions 
 
-    If I have a budget of €100,000, what kind of houses will I be able to buy? 
+        If I have a budget of €100,000, what kind of houses will I be able to buy? 
 
-    How much money can I save if I decide not to get a house with a pool? 
+        How much money can I save if I decide not to get a house with a pool? 
