@@ -1,5 +1,8 @@
 Die .ipynb Datei enthält den Code für die EDA und Data Prepocessing.
 
+Die data_7 Datei enthält die Rohdaten für unsere Gruppe.
+
+
 Link zum Word Dokument mit allen bisher extrahierten Informationen:
 
 https://unigraz-my.sharepoint.com/:w:/g/personal/niklas_schramm_edu_uni-graz_at/EWQiHlfiYKZOkuLtK9mfxdYBKTl91rvzX1sci6dhJbEemw?e=lboAMD
@@ -7,8 +10,6 @@ https://unigraz-my.sharepoint.com/:w:/g/personal/niklas_schramm_edu_uni-graz_at/
 Link zur Power Point Präsentation:
 
 https://unigraz-my.sharepoint.com/:p:/g/personal/niklas_schramm_edu_uni-graz_at/EQJ_HnLJgG5LkSbNRxQRm2cB4XieZJ63QeOUivLSiQfuPg?e=bYHFpy
-
-Die data_7 Datei enthält die Rohdaten für unsere Gruppe.
 
 To Do's:
 
