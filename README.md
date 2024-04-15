@@ -8,6 +8,8 @@ Link zur Power Point Präsentation:
 
 https://unigraz-my.sharepoint.com/:p:/g/personal/niklas_schramm_edu_uni-graz_at/EQJ_HnLJgG5LkSbNRxQRm2cB4XieZJ63QeOUivLSiQfuPg?e=bYHFpy
 
+Die data_7 Datei enthält die Rohdaten für unsere Gruppe.
+
 To Do's:
 
     Exploratory Data Analysis and Preprocessing of the data 
